@@ -2,7 +2,7 @@
 
 Smooth scrolling for text editors via mouse and keyboard. Uses `requestAnimationFrame` with time-based target scrolling for smooth animations with alternative speed and horizontal scroll modes. A legacy divider-based scroll computation mode is also available.
 
-![demo](https://github.com/asiloisad/pulsar-smooth-scroll/blob/master/assets/demo.gif?raw=true)
+![demo](https://github.com/asiloisad-pulsar/smooth-scroll/blob/master/assets/demo.gif?raw=true)
 
 ## Features
 
