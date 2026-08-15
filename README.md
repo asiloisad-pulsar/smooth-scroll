@@ -14,7 +14,7 @@ Smooth scrolling for text editors via mouse and keyboard. Uses `requestAnimation
 
 ## Installation
 
-To install `smooth-scroll` search for [smooth-scroll](https://web.pulsar-edit.dev/packages/smooth-scroll) in the Install pane of the Pulsar settings or run `ppm install smooth-scroll`. Alternatively, you can run `ppm install asiloisad/pulsar-smooth-scroll` to install a package directly from the GitHub repository.
+To install `smooth-scroll` search for [smooth-scroll](https://web.pulsar-edit.dev/packages/smooth-scroll) in the Install pane of the Pulsar settings or run `ppm install smooth-scroll`. Alternatively, you can run `ppm install asiloisad-pulsar/smooth-scroll` to install a package directly from the GitHub repository.
 
 ## Commands
 
