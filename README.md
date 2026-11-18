@@ -2,6 +2,9 @@
 
 Smooth scrolling for text editors via mouse and keyboard. Uses `requestAnimationFrame` with time-based target scrolling for smooth animations with alternative speed and horizontal scroll modes. A legacy divider-based scroll computation mode is also available.
 
+> [!NOTE]
+> This package is in maintenance mode. In [Lumine](https://github.com/lumine-code/lumine), smooth scrolling is available under **Editor > Smooth Scrolling**.
+
 ![demo](https://github.com/asiloisad-pulsar/smooth-scroll/blob/master/assets/demo.gif?raw=true)
 
 ## Features
